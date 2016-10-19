@@ -49,9 +49,6 @@ $number2 = 24;
 
 echo $number1 + $number2; // adds the two variables
 
-
-
-
 ?>
 
 </body>
