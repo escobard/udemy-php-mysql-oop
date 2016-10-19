@@ -20,7 +20,7 @@ echo $numberList; // this causes an error, when calling an array variable, the v
 
 echo $numberList[0];// the value within the brackets calls the array indexes. starting at 0. in this case, the value of 0 = 32, of 1 = 23, 3 = '44231', etc
 
-print_r($numberList);// prints all the values, and the indexes for each array.
+print_r($numberList);// prints all the values, and the corresponding indexes for each array.
 ?>
 </body>
 </html>
