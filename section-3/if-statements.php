@@ -8,7 +8,42 @@
 
 <?php 
 
+// standard if statement in PHP
+if
+// arguments go in here. since 3 is less than 10, the if function will trigger
+(3 < 10)
+// function goes in here. true because arguments is true, displays correctly
+{
 
+echo "three is less than ten";
+
+}
+
+// not true because argument returns false
+if(3 < 10)
+{echo "three is less than ten";}
+
+
+// standard if / else statement
+if(3 < 10)
+{echo "three is less than ten";}
+else {
+
+echo "three is not less than ten";
+
+}
+
+// standard if / elseif /else statement
+// in an if / elseif statement, if statement argument is tested first
+if (3 < 10)
+{echo "three is less than ten";}
+else {echo "three is not less than ten";}
+
+//elseif is a single word unlike javascript's else if
+//elseif argument is tested second
+elseif (4 < 5) {}
 ?>
+
+
 </body>
 </html>
