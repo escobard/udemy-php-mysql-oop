@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"arrayNormal"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"num",
+				"number1"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "comparison_operators.php",
+			"settings":
+			{
+				"buffer_size": 2012,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/course-demos/15_comparison_operators.php",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"oackage",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"package",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 374.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Documents/School/Udemy/php-mysql-oop/section-3/if-statements.php",
+		"/C/xampp/htdocs/demo/if-statements.php",
+		"/D/Documents/School/Udemy/php-mysql-oop/section-3/if-statements2.php",
+		"/D/Documents/School/Udacity/object-oriented-js/frogger-arcade/js/app.js",
+		"/D/Documents/School/Udacity/object-oriented-js/frogger-arcade/frontend-nanodegree-arcade-game-original/js/engine.js",
+		"/D/Documents/School/Udacity/object-oriented-js/frogger-arcade/frontend-nanodegree-arcade-game-original/js/resources.js",
+		"/D/Documents/School/Udacity/object-oriented-js/frogger-arcade/frontend-nanodegree-arcade-game-original/index.html",
+		"/D/Documents/School/Udacity/object-oriented-js/frogger-arcade/frontend-nanodegree-arcade-game-original/js/app.js",
+		"/D/Documents/School/Udacity/object-oriented-js/run.js",
+		"/D/Documents/School/Udacity/object-oriented-js/library.js",
+		"/D/Documents/School/Udacity/object-oriented-js/frogger-arcade/js/resources.js",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/package.json",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/gulpfile.js",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/sass/main.scss",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/css/extra.css",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/css/main.css",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/css/extra.scss",
+		"/D/Documents/School/Udacity/web-tooling-and-automation/css/main.scss",
+		"/D/Documents/School/Udemy/php-mysql-oop/section-2/2.php",
+		"/D/Documents/School/Udemy/php-mysql-oop/section-2/arrays_associative.php",
+		"/D/Documents/School/Udemy/php-mysql-oop/section-2/arrays.php",
+		"/D/Documents/School/Udemy/php-mysql-oop/section-2/math.php",
+		"/C/xampp/htdocs/demo/math.php",
+		"/C/xampp/apache/logs/error.log",
+		"/D/Documents/School/Udemy/php-mysql-oop/section-2/variables.php",
+		"/C/Users/Dan/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Dan/Downloads/README",
+		"/C/Users/Dan/Downloads/job_data.ipynb",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_addproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/page.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/header.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/js/scripts.js",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/css/style.css",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_payment.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/inventory.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_inventory.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_deleteproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_price.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_product_pricing.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_saveproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_admins.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/js/facebox.js",
+		"/C/Users/Dan/Downloads/onlinede_ffm.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/sql/dbs.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_user.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_product.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_pricing.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_part_number.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/get_category.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/js/pricing_jquery.js",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/js/inventory_jquery.js",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/addproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/deleteproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/saveproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/getprice.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/components/getuser.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/get_admins.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/getprice.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/addproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/get_price.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/getuser.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/get_part_number.php",
+		"/D/Documents/Work 2016/fresh-focus-media/EREC`s Pharmacy POS/sales.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/get_product_pricing.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/deleteproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/connect.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/saveproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/get_category.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/dbconfig.php",
+		"/D/Documents/Work 2016/fresh-focus-media/EREC`s Pharmacy POS/index.php",
+		"/D/Documents/Work 2016/fresh-focus-media/EREC`s Pharmacy POS/login.php",
+		"/D/Documents/Work 2016/fresh-focus-media/EREC`s Pharmacy POS/connect.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/js/application.js",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos/sales.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/addproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/connect.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/deleteproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/login.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/saveproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/argiepolicarpio.js",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app - Copy/js/scripts.js",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration - Copy/addproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration - Copy/index.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration - Copy/products.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/addproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/saveeditproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/editproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/get_product.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/demo_insert.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app - Copy/inventory/php/get_price.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/js/jquery.js",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/inventory/php/get_part_number.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/supplier.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/index.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/inventory/php/get_category.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/products.php",
+		"/D/Documents/Work 2016/fresh-focus-media/point-of-sale-app/php/footer.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/index.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/login.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/products.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/argiepolicarpio.js",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/connect.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/editproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/saveeditproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/style.css",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/supplier.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/js/application.js",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos-migration/deleteproduct.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos/main/index.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos/main/products.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos/main/js/application.js",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos/connect.php",
+		"/D/Documents/Work 2016/fresh-focus-media/pos/pos/login.php",
+		"/D/Documents/Work 2016/fresh-focus-media/onlinepos/onlinePOS/onlinepos/mainloginexec.php",
+		"/D/Documents/Work 2016/fresh-focus-media/onlinepos/onlinePOS/OnlinePOS/login-exec.php",
+		"/D/Documents/Work 2016/fresh-focus-media/onlinepos/onlinePOS/OnlinePOS/login.php",
+		"/D/Documents/Work 2016/fresh-focus-media/onlinepos/onlinePOS/OnlinePOS/config.php",
+		"/D/Documents/Work 2016/fresh-focus-media/onlinepos/onlinePOS/inventory.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/OpenSourcePos 2.3.4/jekkos-opensourcepos-7180e7e/database/database.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/OpenSourcePos 2.3.4/jekkos-opensourcepos-7180e7e/database/2.3.2_to_2.3.3.sql",
+		"/D/Documents/Work 2016/fresh-focus-media/onlinepos/onlinePOS/onlinepos/products.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/index.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/delete_product.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/update_product.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/paging_product.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/header.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/footer.php",
+		"/D/Documents/Work 2016/fresh-focus-media/inventorycreation/read_template.php"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dt",
+			"enemy",
+			"vertical",
+			"ctx",
+			");\n",
+			"Enemy",
+			"portfolio",
+			"$args",
+			"attorney",
+			"donor",
+			"h2",
+			"tbl_admins",
+			"POST",
+			"_GET",
+			"products",
+			"connect.php",
+			"price",
+			"city",
+			".city",
+			"state",
+			".state",
+			"state",
+			"country",
+			".country",
+			"selected",
+			".val",
+			"city",
+			"mysqli_result",
+			"obj",
+			"color",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Enemy",
+			"enemy",
+			"services",
+			"$arguments",
+			"Attorney",
+			"Donor",
+			"h3",
+			"tbl_payment_methods",
+			"GET",
+			"tbl_product_data",
+			"product_pricing",
+			"product",
+			".product",
+			"product",
+			"part_number",
+			".part_number",
+			"part_number",
+			"category",
+			".category"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "comparison_operators.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1236,
+								1236
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/course-demos/15_comparison_operators.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"<",
+				"<head></head>"
+			],
+			[
+				"",
+				"D:\\Documents\\Work 2016\\Persyo\\www.montysplumbingheating.com\\.htaccess"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
