@@ -10,8 +10,15 @@
 
 // for loops
 // different than while loops because the incremental variable is created inside of the loop, and the increment function is added to the loop argument
-for ($counter = 0; $counter < 10; $counter++) { 
-	echo "<h2>This is a for loop</h2>" . "<br>";
+// for loop explained
+for (
+	// this is the index
+	$counter = 0; 
+	// this is the condition
+	$counter <= 10;
+	// this is the increment
+	$counter++) { 
+	echo "<h2>" . $counter . "</h2>" . "<br>";
 }
 
 ?>
