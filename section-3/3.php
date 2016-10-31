@@ -38,6 +38,27 @@ for ($i=0; $i < 10; $i++) {
 
  */
 
+$switch_condition = 10;
+switch ($switch_condition) {
+	case 3:
+		echo "the switch variable currently equals 3";
+		break;
+	case 4:
+		echo "the switch variable currently equals 4";
+		break;
+	case 5:
+		echo "the switch variable currently equals 5";
+		break;
+	case 6:
+		echo "the switch variable currently equals 6";
+		break;
+	case 7:
+		echo "the switch variable currently equals 7";
+		break;
+	default:
+		echo "the switch variable currently equals " . $switch_condition;
+		break;
+}
 	
 ?>
 
