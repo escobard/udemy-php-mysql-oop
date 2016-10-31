@@ -25,13 +25,16 @@ elseif ($ifcondition == 10) {
 	echo $ifcondition . " is equal to 10";
 }
 else {
-	echo "I love PHP";
+	echo "I love PHP" . "<br>";
 };
 
-	/* Step 2: Make a forloop  that displays 10 numbers
+	/* Step 2: Make a forloop  that displays 10 numbers */
 
+for ($i=0; $i < 10; $i++) { 
+	echo $i . "<br>";
+}
 
-	Step 3 : Make a switch Statement that test againts one condition with 5 cases
+	/*Step 3 : Make a switch Statement that test againts one condition with 5 cases
 
  */
 
