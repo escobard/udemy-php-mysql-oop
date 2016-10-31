@@ -14,11 +14,21 @@
 
 <?php  
 
-/*  Step1: Make an if Statement with elseif and else to finally display string saying, I love PHP
+/*  Step1: Make an if Statement with elseif and else to finally display string saying, I love PHP */
 
+$ifcondition = 1;
 
+if ( $ifcondition >= 10) {
+	echo $ifcondition . " is more than or equal to 10";
+}
+elseif ($ifcondition == 10) {
+	echo $ifcondition . " is equal to 10";
+}
+else {
+	echo "I love PHP";
+};
 
-	Step 2: Make a forloop  that displays 10 numbers
+	/* Step 2: Make a forloop  that displays 10 numbers
 
 
 	Step 3 : Make a switch Statement that test againts one condition with 5 cases
