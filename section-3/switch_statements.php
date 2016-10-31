@@ -24,15 +24,26 @@ elseif($number => 10){
 elseif($number > 5){
 	echo "this";
 }
-// but this doesn't work well as it creates too many if statements, taking up too much memory. for multiple conditional statements on the same variable, write a switch statement */
+// but this doesn't work well as it creates too many if statements, taking up too much memory. for one condition with different values, write a switch statement */
 
-switch (variable) {
-	case 'value':
-		# code...
+$number = '10';
+switch ($number) {
+	// if $number is a string containing 34, echo first case
+	case '34':
+		// case statement
+		echo "is it 34";
+		// a break must be added at the end of each break, otherwise the next case will run
 		break;
-	
+	// if $number is 24, echo second case
+	case '24':
+		echo "is it 24";
+		break;
+	case '14':
+		echo "is it 14";
+		break;	
+	// if none of the cases are true, the default statement will run
 	default:
-		# code...
+		echo "we could not find anything";
 		break;
 }
 ?>
