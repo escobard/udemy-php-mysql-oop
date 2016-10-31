@@ -18,8 +18,11 @@ foreach (
 	// the first value would be the array
 	$numbers
 	// assigns the $number variable to each array value
-	as $number => $value) {
-	
+	as $number) {
+
+	// since each value of the array is assigned the $number variable, the loop executes the same number of times as the number of total variables within the $numbers array.
+	// in this case, this loop will run 6 times since there are 6 total values in the $numbers array
+	echo $number . "<br>";
 }
 
 ?>
