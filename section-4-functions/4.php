@@ -19,14 +19,14 @@
 /*  Step1: Define a function and make it return a calculation of 2 numbers*/
 
 	function unCalc(){
-		return $sum = 300+400;
+		return $value = 'HELLO';
 	}
 
 	function calculation($num1, $num2){
 		return $sum = $num1 + $num2;
 	}
 	echo 'this is the unCalc function: ' . unCalc() . '<br>';
-	echo '--------------------------------------------------------------------' . '<br>';
+	echo '---------------------------------' . '<br>';
 	echo 'this is the calculation function: ' . calculation(322, 999) . '<br>';
 	/*
 
